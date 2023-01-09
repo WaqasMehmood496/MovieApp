@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Cosmos (23.0.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ObjectMapper (3.5.3)
+  - SkeletonView (1.30.4)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - Cosmos
+  - NVActivityIndicatorView
+  - SkeletonView
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Cosmos
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - SkeletonView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 53da50ca1ff812d44266ed13dc3a9aae38479f86
+
+COCOAPODS: 1.11.3
